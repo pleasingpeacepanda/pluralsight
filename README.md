@@ -1,2 +1,1 @@
-# pluralsight
-javascript
+one day i will win
